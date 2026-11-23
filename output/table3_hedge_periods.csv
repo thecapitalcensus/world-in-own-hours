@@ -1,0 +1,6 @@
+period,n_countries,net_unhedged_median,net_hedged_median,hedged_minus_unhedged_median,share_hedge_higher,n_hedge_higher,sd_unhedged_median,sd_hedged_median,share_hedge_lower_sd,n_hedge_lower_sd
+1976-1981,15,-25.712,-53.764,-18.873,0.4,6,92.597,62.015,0.667,10
+1982-2000,35,66.921,69.878,7.16,0.571,20,142.664,96.779,0.886,31
+2001-2020,36,16.844,33.131,13.715,0.917,33,87.985,76.846,0.806,29
+2021-2025,36,2.625,-10.859,-22.725,0.222,8,123.559,145.338,0.167,6
+1976-2025,36,31.53,36.327,7.267,0.722,26,118.358,96.628,0.861,31

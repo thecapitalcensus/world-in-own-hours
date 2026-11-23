@@ -1,0 +1,485 @@
+{
+ "n_countries": 43,
+ "n_balanced": 37,
+ "balanced": [
+  "AR",
+  "AT",
+  "AU",
+  "BE",
+  "BR",
+  "CA",
+  "CH",
+  "CL",
+  "CN",
+  "CO",
+  "DE",
+  "DK",
+  "ES",
+  "FI",
+  "FR",
+  "GB",
+  "GR",
+  "HK",
+  "ID",
+  "IE",
+  "IN",
+  "IT",
+  "JP",
+  "KR",
+  "MX",
+  "MY",
+  "NL",
+  "NO",
+  "NZ",
+  "PH",
+  "PT",
+  "SA",
+  "SE",
+  "SG",
+  "TH",
+  "TR",
+  "US"
+ ],
+ "gmp_usd_1976_2025": 83.0,
+ "world_hour_1976_2025": 48.2,
+ "gmp_in_world_hours_1976_2025": 34.8,
+ "net_gdp_weighted": 33.4,
+ "net_median": 32.8,
+ "net_gdp_weighted_balanced": 34.5,
+ "net_median_balanced": 33.2,
+ "n_positive": 38,
+ "n_negative": 5,
+ "n_sig_pos": 24,
+ "n_sig_neg": 0,
+ "best": {
+  "country": "Saudi Arabia",
+  "net": 74.87568872760984,
+  "from": 1976
+ },
+ "worst": {
+  "country": "Russia",
+  "net": -62.32494983280858,
+  "from": 1993
+ },
+ "balanced_min": {
+  "country": "China",
+  "net": -2.477700314249396
+ },
+ "balanced_max": {
+  "country": "Saudi Arabia",
+  "net": 74.87568872760984
+ },
+ "US": {
+  "country": "United States",
+  "from": 1976,
+  "to": 2025,
+  "years": 50,
+  "gmp_lcu": 82.95490807627053,
+  "need": 46.165939940722254,
+  "net": 36.788968135548274,
+  "net_se": 11.990234555268383,
+  "net_sd": 91.0657981824635,
+  "share_pos": 0.72,
+  "term_world": 34.77818306953453,
+  "term_rel": 2.0107850660137405,
+  "cum_ratio": 6.293066090896909,
+  "worst10": -3.126028561343075,
+  "neg10": 0.024390243902439025,
+  "worst20": 12.649963307557476,
+  "neg20": 0.0,
+  "usd_bill_net": -3.6773542192160047,
+  "hedge_from": 1977.0,
+  "hedge_years": 49.0,
+  "net_h": 35.999672945376645,
+  "net_h_sd": 91.83654891908516,
+  "net_u_same": 35.99967294537665,
+  "net_u_same_sd": 91.83654891908512,
+  "hedge_minus_unhedged": -1.0762366055039783e-14,
+  "hmu_se": 3.639492128332785e-14,
+  "carry": -1.0762366055039783e-14,
+  "fx_change": 0.0,
+  "hedge_gain": -1.0762366055039783e-14,
+  "local_bill_net": 1.8077657414088417,
+  "rate_source": "IR3TIB"
+ },
+ "JP": {
+  "country": "Japan",
+  "from": 1976,
+  "to": 2025,
+  "years": 50,
+  "gmp_lcu": 69.50038634775024,
+  "need": 29.69382269375947,
+  "net": 39.80656365399078,
+  "net_se": 17.377325705577924,
+  "net_sd": 129.78547340780912,
+  "share_pos": 0.64,
+  "term_world": 34.77818306953453,
+  "term_rel": 5.028380584456249,
+  "cum_ratio": 7.3179349879270505,
+  "worst10": -18.536370111021974,
+  "neg10": 0.04878048780487805,
+  "worst20": 7.8589620151872985,
+  "neg20": 0.0,
+  "usd_bill_net": -0.6597587007735006,
+  "hedge_from": 1977.0,
+  "hedge_years": 49.0,
+  "net_h": 26.60526165827511,
+  "net_h_sd": 91.48343563115719,
+  "net_u_same": 40.158798510013106,
+  "net_u_same_sd": 131.10628769103437,
+  "hedge_minus_unhedged": -13.553536851738006,
+  "hmu_se": 19.65468357180289,
+  "carry": -26.53974701369337,
+  "fx_change": -12.986210161955368,
+  "hedge_gain": -13.553536851738006,
+  "local_bill_net": -8.556117860088786,
+  "rate_source": "IRSTCI from 1985-07; BoJ discount rate (IMF) 1975-12..1985-06"
+ },
+ "DE": {
+  "country": "Germany",
+  "from": 1976,
+  "to": 2025,
+  "years": 50,
+  "gmp_lcu": 73.92282819943844,
+  "need": 41.55808737636315,
+  "net": 32.36474082307531,
+  "net_se": 16.01301177508103,
+  "net_sd": 112.7116132713286,
+  "share_pos": 0.6,
+  "term_world": 34.77818306953453,
+  "term_rel": -2.4134422464592187,
+  "cum_ratio": 5.04418977423963,
+  "worst10": -10.970956096098044,
+  "neg10": 0.07317073170731707,
+  "worst20": 20.120214527096344,
+  "neg20": 0.0,
+  "usd_bill_net": -8.10158153168896,
+  "hedge_from": 1977.0,
+  "hedge_years": 49.0,
+  "net_h": 30.5100346333811,
+  "net_h_sd": 90.8477593641257,
+  "net_u_same": 33.3885483697543,
+  "net_u_same_sd": 113.64449639373315,
+  "hedge_minus_unhedged": -2.8785137363731947,
+  "hmu_se": 17.482921542609134,
+  "carry": -10.1425755819239,
+  "fx_change": -7.264061845550707,
+  "hedge_gain": -2.8785137363731947,
+  "local_bill_net": -3.6856295643104033,
+  "rate_source": "IR3TIB"
+ },
+ "CH": {
+  "country": "Switzerland",
+  "from": 1976,
+  "to": 2025,
+  "years": 50,
+  "gmp_lcu": 59.04235855002143,
+  "need": 25.868373881982034,
+  "net": 33.173984668039395,
+  "net_se": 16.128205547006583,
+  "net_sd": 123.00262748314185,
+  "share_pos": 0.66,
+  "term_world": 34.77818306953453,
+  "term_rel": -1.6041984014951343,
+  "cum_ratio": 5.252474156003738,
+  "worst10": -17.284247071252263,
+  "neg10": 0.07317073170731707,
+  "worst20": 12.110740629766083,
+  "neg20": 0.0,
+  "usd_bill_net": -7.292337686724874,
+  "hedge_from": 1977.0,
+  "hedge_years": 49.0,
+  "net_h": 23.599394015516555,
+  "net_h_sd": 97.0038049589621,
+  "net_u_same": 33.004085447608986,
+  "net_u_same_sd": 124.27137231885654,
+  "hedge_minus_unhedged": -9.404691432092433,
+  "hmu_se": 18.20440468043222,
+  "carry": -32.31008268909406,
+  "fx_change": -22.905391257001625,
+  "hedge_gain": -9.404691432092433,
+  "local_bill_net": -11.598909561566705,
+  "rate_source": "IRSTCI"
+ },
+ "GB": {
+  "country": "United Kingdom",
+  "from": 1976,
+  "to": 2025,
+  "years": 50,
+  "gmp_lcu": 91.20171728802734,
+  "need": 62.26917924793456,
+  "net": 28.93253804009278,
+  "net_se": 16.447041200628718,
+  "net_sd": 122.003874675451,
+  "share_pos": 0.7,
+  "term_world": 34.77818306953453,
+  "term_rel": -5.845645029441751,
+  "cum_ratio": 4.248758837309134,
+  "worst10": 2.4458454813711783,
+  "neg10": 0.0,
+  "worst20": 9.406957709013225,
+  "neg20": 0.0,
+  "usd_bill_net": -11.533784314671491,
+  "hedge_from": 1987.0,
+  "hedge_years": 39.0,
+  "net_h": 35.73784069801135,
+  "net_h_sd": 81.00333024861678,
+  "net_u_same": 24.47947487346394,
+  "net_u_same_sd": 106.46209903366342,
+  "hedge_minus_unhedged": 11.258365824547415,
+  "hmu_se": 14.945526673321059,
+  "carry": 13.071393336354733,
+  "fx_change": 1.8130275118073171,
+  "hedge_gain": 11.258365824547415,
+  "local_bill_net": 2.3249089988500784,
+  "rate_source": "IR3TIB"
+ },
+ "KR": {
+  "country": "Korea",
+  "from": 1976,
+  "to": 2025,
+  "years": 50,
+  "gmp_lcu": 105.13020048084977,
+  "need": 101.24943314737952,
+  "net": 3.8807673334702386,
+  "net_se": 18.08552733506936,
+  "net_sd": 138.50237969477237,
+  "share_pos": 0.44,
+  "term_world": 34.77818306953453,
+  "term_rel": -30.89741573606429,
+  "cum_ratio": 1.2141428646855206,
+  "worst10": -47.29529391855802,
+  "neg10": 0.36585365853658536,
+  "worst20": -21.830281278277308,
+  "neg20": 0.2903225806451613,
+  "usd_bill_net": -36.585555021294034,
+  "hedge_from": 1992.0,
+  "hedge_years": 34.0,
+  "net_h": 24.450765559596782,
+  "net_h_sd": 89.2973768095955,
+  "net_u_same": 16.05655311952207,
+  "net_u_same_sd": 132.61388670246635,
+  "hedge_minus_unhedged": 8.39421244007471,
+  "hmu_se": 21.61471901910675,
+  "carry": 27.668381766552024,
+  "fx_change": 19.27416932647731,
+  "hedge_gain": 8.39421244007471,
+  "local_bill_net": -11.180593877979229,
+  "rate_source": "IR3TIB"
+ },
+ "CN": {
+  "country": "China",
+  "from": 1976,
+  "to": 2025,
+  "years": 50,
+  "gmp_lcu": 108.48005896366196,
+  "need": 110.95775927791135,
+  "net": -2.477700314249396,
+  "net_se": 21.046595666394943,
+  "net_sd": 129.39563814853994,
+  "share_pos": 0.44,
+  "term_world": 34.77818306953453,
+  "term_rel": -37.255883383783925,
+  "cum_ratio": 0.8834814215243503,
+  "worst10": -114.29805402517339,
+  "neg10": 0.6585365853658537,
+  "worst20": -74.82909351273511,
+  "neg20": 0.6774193548387096,
+  "usd_bill_net": -42.94402266901367,
+  "hedge_from": 1991.0,
+  "hedge_years": 35.0,
+  "net_h": -36.674905205404244,
+  "net_h_sd": 99.5637595212353,
+  "net_u_same": -44.156153667002194,
+  "net_u_same_sd": 97.94445665159334,
+  "hedge_minus_unhedged": 7.481248461597951,
+  "hmu_se": 11.226409948188655,
+  "carry": 15.965785675726638,
+  "fx_change": 8.484537214128686,
+  "hedge_gain": 7.481248461597951,
+  "local_bill_net": -75.67083653318491,
+  "rate_source": "IRSTCI"
+ },
+ "rel_term_share_of_variance": 0.835,
+ "corr_net_vs_rel": 0.985,
+ "hedge_n": 36,
+ "hedge_share_higher": 0.722,
+ "hedge_share_lower_sd": 0.861,
+ "hedge_minus_unhedged_median": 7.3,
+ "sd_unhedged_median": 118.4,
+ "sd_hedged_median": 96.6,
+ "world_hour_check": {
+  "corr_dec": 0.712,
+  "corr_avg": 0.997,
+  "mean_diff_pp_dec": 0.142,
+  "mean_diff_pp_avg": 0.18
+ },
+ "uip": {
+  "n": 35,
+  "corr_carry_fx": 0.968,
+  "slope_fx_on_carry": 0.796,
+  "corr_gain_carry": 0.7,
+  "n_gain_pos": 26,
+  "n_gain_sig": 4,
+  "sig_list": [
+   "Brazil",
+   "Colombia",
+   "Israel",
+   "Poland"
+  ],
+  "n_sd_lower": 31,
+  "low_rate": [
+   "Austria",
+   "Switzerland",
+   "Germany",
+   "Japan",
+   "Netherlands"
+  ],
+  "low_rate_gain_median": -2.9,
+  "high_rate_gain_median": 10.1
+ },
+ "n_countries_net_nonpositive": [
+  "China",
+  "Czechia",
+  "Poland",
+  "Russia",
+  "South Africa"
+ ],
+ "n_countries_net_below10": [
+  "China",
+  "Czechia",
+  "Ireland",
+  "Korea",
+  "Poland",
+  "Russia",
+  "South Africa"
+ ],
+ "cum_ratio_median_balanced": 5.25,
+ "cum_ratio_min_balanced": 0.88,
+ "cum_ratio_max_balanced": 42.26,
+ "net_sd_median": 123.9,
+ "share_pos_median": 0.6,
+ "world_term_sd": 85.1,
+ "rel_term_sd_median": 85.0,
+ "corr_world_rel_median": 0.044,
+ "worst10_median": -33.7,
+ "neg20_countries_any": 18,
+ "neg10_median": 0.154
+}
+           gmp_usd  world_hour  gmp_in_world_hours  net_gdp_weighted  net_median  net_gdp_weighted_balanced  net_median_balanced  rel_hour_gdp_weighted  rel_hour_median  share_countries_positive  n_countries  us_net  jp_net
+period                                                                                                                                                                                                                         
+1976-1981     89.0        95.4                -6.4              -8.2       -19.3                       -8.2                -18.9                   -1.8            -13.0                       0.2           38     4.0   -47.8
+1982-2000    116.1        42.8                73.3              70.9        70.0                       72.5                 71.5                   -2.4             -3.3                       1.0           42    71.5    42.4
+2001-2020     60.0        42.1                17.9              18.0        16.4                       18.6                 18.8                    0.1             -1.6                       0.7           43    25.8    50.6
+2021-2025     41.4        36.1                 5.3               2.8         2.0                        4.5                  4.4                   -2.6             -3.3                       0.6           43   -11.6    91.8
+1976-2025     83.0        48.2                34.8              33.4        32.8                       34.5                 33.2                   -1.3             -2.1                       0.9           43    36.8    39.8
+           n_countries  net_unhedged_median  net_hedged_median  hedged_minus_unhedged_median  share_hedge_higher  sd_unhedged_median  sd_hedged_median  share_hedge_lower_sd
+period                                                                                                                                                                      
+1976-1981           15               -25.71             -53.76                        -18.87                0.17               92.60             62.02                  0.28
+1982-2000           35                66.92              69.88                          7.16                0.56              142.66             96.78                  0.86
+2001-2020           36                16.84              33.13                         13.71                0.92               87.98             76.85                  0.81
+2021-2025           36                 2.63             -10.86                        -22.72                0.22              123.56            145.34                  0.17
+1976-2025           36                31.53              36.33                          7.27                0.72              118.36             96.63                  0.86
+                                                                  gdp_weighted  median  gdp_weighted_balanced  median_balanced  share_positive    US    JP    DE    CH
+variant                                                                                                                                                               
+Baseline: Dec-to-Dec market returns, calendar-year national hour          33.4    32.8                   34.5             33.2             0.9  36.8  39.8  32.4  33.2
+National hour interpolated to Dec-to-Dec (note 4 variant)                 33.5    34.1                   34.0             35.4             0.9  35.7  38.7  33.4  33.6
+Annual-average exchange rate instead of December                          33.4    34.6                   34.3             35.8             0.9  36.8  39.6  34.4  34.4
+GDP per worker instead of GDP per hour                                    36.2    36.0                   37.1             36.7             0.9  37.5  44.4  38.5  37.5
+Sample to 2023 (no labour-force extension)                                32.3    32.1                   33.2             33.2             0.9  35.4  36.6  31.8  32.1
+Equal country weights                                                     29.0    32.8                   32.1             33.2             0.9  36.8  39.8  32.4  33.2
+           country  from   net  net_se  term_world  term_rel  cum_ratio  worst10  neg20
+cc                                                                                     
+RU          Russia  1993 -62.3    61.7        27.9     -90.3        0.1   -182.2    1.0
+CZ         Czechia  1994 -11.7    20.5        24.2     -35.9        0.7    -75.6    0.8
+PL          Poland  1996  -5.2    18.7        24.6     -29.7        0.9    -55.7    0.4
+CN           China  1976  -2.5    21.0        34.8     -37.3        0.9   -114.3    0.7
+ZA    South Africa  2002  -0.4    37.8        17.2     -16.5        1.0    -65.6    0.3
+IE         Ireland  1976   2.8    14.7        34.8     -32.0        1.2    -41.7    0.5
+KR           Korea  1976   3.9    18.1        34.8     -30.9        1.2    -47.3    0.3
+CL           Chile  1976  14.7    28.4        34.8     -20.0        2.1    -49.6    0.4
+HU         Hungary  1981  18.3    19.2        39.5     -21.2        2.3    -73.6    0.5
+HK       Hong Kong  1976  18.9    14.7        34.8     -15.8        2.6    -29.4    0.0
+SG       Singapore  1976  20.5    16.5        34.8     -14.3        2.8    -25.7    0.1
+TH        Thailand  1976  23.1    17.9        34.8     -11.7        3.2    -41.9    0.3
+GB  United Kingdom  1976  28.9    16.4        34.8      -5.8        4.2      2.4    0.0
+MY        Malaysia  1976  29.3    18.9        34.8      -5.4        4.3    -37.1    0.0
+AT         Austria  1976  29.9    15.2        34.8      -4.9        4.5    -18.4    0.0
+ES           Spain  1976  30.0    18.8        34.8      -4.8        4.5    -25.2    0.0
+TR         Türkiye  1976  30.2    24.3        34.8      -4.6        4.5    -63.3    0.3
+IN           India  1976  31.3    16.2        34.8      -3.4        4.8    -53.5    0.5
+AR       Argentina  1976  31.8    56.8        34.8      -3.0        4.9   -167.1    0.1
+DE         Germany  1976  32.4    16.0        34.8      -2.4        5.0    -11.0    0.0
+ID       Indonesia  1976  32.7    27.4        34.8      -2.1        5.1    -82.9    0.4
+PT        Portugal  1976  32.8    17.9        34.8      -2.0        5.2    -24.8    0.0
+NO          Norway  1976  32.9    18.3        34.8      -1.9        5.2    -42.5    0.0
+CH     Switzerland  1976  33.2    16.1        34.8      -1.6        5.3    -17.3    0.0
+CO        Colombia  1976  33.5    19.9        34.8      -1.3        5.3    -46.2    0.0
+IL          Israel  1982  33.5    18.0        40.4      -6.9        4.4    -11.6    0.0
+FI         Finland  1976  34.0    16.5        34.8      -0.8        5.5    -15.8    0.0
+NZ     New Zealand  1976  34.5    17.0        34.8      -0.3        5.6    -33.7    0.0
+DK         Denmark  1976  35.0    15.0        34.8       0.2        5.7    -17.3    0.0
+IT           Italy  1976  36.2    16.1        34.8       1.4        6.1    -11.1    0.0
+BE         Belgium  1976  36.6    16.8        34.8       1.8        6.2    -12.1    0.0
+US   United States  1976  36.8    12.0        34.8       2.0        6.3     -3.1    0.0
+AU       Australia  1976  37.7    18.5        34.8       3.0        6.6    -51.7    0.0
+NL     Netherlands  1976  38.3    15.9        34.8       3.5        6.8    -20.8    0.0
+PH     Philippines  1976  38.5    18.8        34.8       3.7        6.8    -41.7    0.2
+FR          France  1976  38.8    15.5        34.8       4.0        7.0    -13.8    0.0
+GR          Greece  1976  39.3    18.2        34.8       4.5        7.1    -33.0    0.0
+BR          Brazil  1976  39.3    41.0        34.8       4.5        7.1    -95.3    0.3
+JP           Japan  1976  39.8    17.4        34.8       5.0        7.3    -18.5    0.0
+SE          Sweden  1976  44.4    17.2        34.8       9.6        9.2     -9.1    0.0
+CA          Canada  1976  44.7    13.5        34.8       9.9        9.3    -17.5    0.0
+MX          Mexico  1976  46.9    36.5        34.8      12.2       10.4    -54.0    0.1
+SA    Saudi Arabia  1976  74.9    27.3        34.8      40.1       42.3    -22.4    0.0
+           country  hedge_from  net_u_same  net_h  hedge_minus_unhedged  hmu_se  net_u_same_sd  net_h_sd  carry  fx_change  local_bill_net                                                    rate_source
+cc                                                                                                                                                                                                       
+AT         Austria      1990.0        27.7   26.6                  -1.1    16.5          110.3      90.5   -2.2       -1.2            -7.2                                                         IR3TIB
+AU       Australia      1977.0        34.6   47.8                  13.1    16.8          132.0      99.9   22.5        9.4            13.7                                                         IR3TIB
+BE         Belgium      1977.0        38.6   39.9                   1.3    18.6          118.1      90.9    0.2       -1.1             5.7                                                         IR3TIB
+BR          Brazil      1997.0        36.3   97.3                  61.0    34.6          182.6     112.8  118.2       57.2            62.8                                                         IRSTCI
+CA          Canada      1977.0        45.1   44.9                  -0.2    10.1           94.3      98.4    6.0        6.2            10.8                                                         IR3TIB
+CH     Switzerland      1977.0        33.0   23.6                  -9.4    18.2          124.3      97.0  -32.3      -22.9           -11.6                                                         IRSTCI
+CL           Chile      1997.0        15.8   18.8                   3.0    17.4          111.6      88.2   29.7       26.7           -16.1                                                         IRSTCI
+CN           China      1991.0       -44.2  -36.7                   7.5    11.2           97.9      99.6   16.0        8.5           -75.7                                                         IRSTCI
+CO        Colombia      1987.0        22.1   61.3                  39.2    19.5          126.1     118.7  112.5       73.3            28.1                                                         IR3TIB
+CZ         Czechia      1994.0       -11.7   14.2                  25.9    17.4          118.6      88.6   14.5      -11.3           -18.6                                                         IR3TIB
+DE         Germany      1977.0        33.4   30.5                  -2.9    17.5          113.6      90.8  -10.1       -7.3            -3.7                                                         IR3TIB
+DK         Denmark      1988.0        34.1   36.8                   2.7    16.0          110.6      94.6    3.1        0.3             2.6                                                         IR3TIB
+ES           Spain      1978.0        28.7   35.8                   7.1    20.3          132.9      96.3   18.6       11.6             1.8                                                         IR3TIB
+FI         Finland      1988.0        36.4   33.5                  -2.9    17.2          120.1      89.6    3.2        6.1            -0.8                                                         IR3TIB
+FR          France      1977.0        36.7   36.7                  -0.0    18.1          111.8      91.4    2.4        2.4             2.5                                                         IR3TIB
+GB  United Kingdom      1987.0        24.5   35.7                  11.3    14.9          106.5      81.0   13.1        1.8             2.3                                                         IR3TIB
+GR          Greece      1981.0        46.1   45.7                  -0.3    19.5          125.3     106.0   40.3       40.6             8.0                                                         IRSTCI
+HU         Hungary      1992.0        -0.3   28.2                  28.5    19.0          118.7     100.5   71.2       42.7            -7.4                                                         IR3TIB
+ID       Indonesia      1991.0        11.5   25.4                  14.0    25.1          152.9     111.5   76.5       62.5           -13.4                                                         IRSTCI
+IE         Ireland      1985.0        -0.4   15.5                  15.9    17.6          114.4     113.9    6.4       -9.5           -26.0                                                         IR3TIB
+IL          Israel      1993.0        23.5   41.1                  17.6    10.2           88.9      92.8   22.9        5.3             4.7                                                         IR3TIB
+IN           India      1977.0        30.1   18.4                 -11.6    12.8          115.4      98.5   35.7       47.3           -16.6                                                         IRSTCI
+IT           Italy      1979.0        39.5   42.3                   2.8    18.1          113.2     100.2   17.1       14.3             7.8                                                         IR3TIB
+JP           Japan      1977.0        40.2   26.6                 -13.6    19.7          131.1      91.5  -26.5      -13.0            -8.6  IRSTCI from 1985-07; BoJ discount rate (IMF) 1975-12..1985-06
+KR           Korea      1992.0        16.1   24.5                   8.4    21.6          132.6      89.3   27.7       19.3           -11.2                                                         IR3TIB
+MX          Mexico      1977.0        38.6   47.4                   8.8    31.9          261.5     122.6  147.5      138.7            12.9                                                         IRSTCI
+NL     Netherlands      1983.0        38.3   40.4                   2.1    18.2          108.4      97.5   -6.1       -8.1             1.3                                                         IR3TIB
+NO          Norway      1980.0        37.7   39.3                   1.5    17.7          139.1     134.4   17.0       15.4             4.4                                                         IR3TIB
+NZ     New Zealand      1977.0        33.7   57.0                  23.3    19.6          125.1     102.0   32.8        9.5            23.0                                                         IR3TIB
+PL          Poland      1996.0        -5.2   31.8                  37.0    18.5          105.6      95.1   49.0       12.0            -2.0                                                         IRSTCI
+PT        Portugal      1986.0        15.7   30.7                  15.0    17.4          117.5      90.1   16.7        1.7            -6.6                                                         IR3TIB
+RU          Russia      1996.0       -12.6   57.2                  69.8    46.9          303.4     191.3  164.2       94.4            23.6                                                         IRSTCI
+SE          Sweden      1983.0        38.1   40.1                   2.1    19.1          109.1      94.8    7.5        5.5             1.2                                                         IR3TIB
+TR         Türkiye      1987.0         6.9   52.7                  45.9    36.4          206.2     226.1  326.4      280.5            18.6                                                         IRSTCI
+US   United States      1977.0        36.0   36.0                  -0.0     0.0           91.8      91.8   -0.0        0.0             1.8                                                         IR3TIB
+ZA    South Africa      2002.0        -0.4   42.5                  42.9    38.8          163.7      88.1   52.0       15.4            -0.6                                                         IR3TIB
+max |annual log change| of national hour in USD: {'RU': 0.982, 'AR': 0.918, 'ID': 0.871, 'TR': 0.572, 'ZA': 0.491, 'MX': 0.407, 'BR': 0.406, 'JP': 0.395, 'DE': 0.357, 'AT': 0.353}
+         AR     BR     MX     TR     RU     PL     IL     CN     SA      US     JP
+year                                                                              
+1976   2.22   1.69   3.13   2.20    NaN    NaN    NaN   0.17  29.03   10.87   4.94
+1980  10.71   2.46   5.91   2.83    NaN    NaN    NaN   0.31  45.48   15.00   8.96
+1985   4.16   1.79   3.93   2.52    NaN    NaN  10.78   0.26  23.33   21.01  11.16
+1990   6.17   3.48   5.09   5.01    NaN    NaN  17.88   0.29  18.81   26.21  24.70
+1995  11.58   5.69   7.18   6.92   2.15   5.20  22.66   0.51  18.88   31.79  44.41
+2000  11.23   4.50  11.43   7.32   1.81   6.43  24.88   0.81  19.96   39.12  41.84
+2010  13.35  12.46  14.68  18.41  10.03  17.01  36.32   3.82  30.69   59.78  52.01
+2020  13.46   9.25  13.74  17.35  10.73  19.75  53.81   9.37  29.37   77.60  47.20
+2025  18.26  11.30  18.45  27.81  16.68  32.30  66.31  12.47  35.81  101.16  39.32

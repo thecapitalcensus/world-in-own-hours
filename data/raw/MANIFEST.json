@@ -1,0 +1,32 @@
+{
+ "bis_xru_m.csv": {
+  "url": "https://stats.bis.org/api/v1/data/WS_XRU/M.AR+AT+AU+BE+BR+CA+CH+CL+CN+CO+CZ+DE+DK+ES+FI+FR+GB+GR+HK+HU+ID+IE+IL+IN+IT+JP+KR+MX+MY+NL+NO+NZ+PH+PL+PT+RU+SA+SE+SG+TH+TR+US+ZA..A?format=csv&startPeriod=1975-01",
+  "retrieved_utc": "2026-11-07T02:23:04Z",
+  "bytes": 3683405,
+  "sha256": "618ffc71d004fb887e5f6ede18269c1fd47acc7bd33683e171a6dd6a13f30b78"
+ },
+ "oecd_IR3TIB.csv": {
+  "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_FINMARK,4.0/ARG+AUT+AUS+BEL+BRA+CAN+CHE+CHL+CHN+COL+CZE+DEU+DNK+ESP+FIN+FRA+GBR+GRC+HKG+HUN+IDN+IRL+ISR+IND+ITA+JPN+KOR+MEX+MYS+NLD+NOR+NZL+PHL+POL+PRT+RUS+SAU+SWE+SGP+THA+TUR+USA+ZAF.M.IR3TIB.PA.....?startPeriod=1960-01&format=csvfilewithlabels",
+  "retrieved_utc": "2026-11-07T02:23:04Z",
+  "bytes": 4657083,
+  "sha256": "c91e210593571087ea12f1ce607fecf161ce096ff8749c7985108dd1183d6ace"
+ },
+ "oecd_IRSTCI.csv": {
+  "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.STES,DSD_STES@DF_FINMARK,4.0/ARG+AUT+AUS+BEL+BRA+CAN+CHE+CHL+CHN+COL+CZE+DEU+DNK+ESP+FIN+FRA+GBR+GRC+HKG+HUN+IDN+IRL+ISR+IND+ITA+JPN+KOR+MEX+MYS+NLD+NOR+NZL+PHL+POL+PRT+RUS+SAU+SWE+SGP+THA+TUR+USA+ZAF.M.IRSTCI.PA.....?startPeriod=1960-01&format=csvfilewithlabels",
+  "retrieved_utc": "2026-11-07T02:23:04Z",
+  "bytes": 5439212,
+  "sha256": "3b123bab633fd3ac81076c402fc28f9f53dbee6639d95b44d239c52d90092df1"
+ },
+ "fred_TB3MS.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS",
+  "retrieved_utc": "2026-11-07T02:23:04Z",
+  "bytes": 17881,
+  "sha256": "33fae406051a658c316580f8e8b5e461157e6663bc03b35648cc7cd3e89ee26b"
+ },
+ "fred_INTDSRJPM193N.csv": {
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=INTDSRJPM193N",
+  "retrieved_utc": "2026-11-07T02:23:04Z",
+  "bytes": 17787,
+  "sha256": "38a66473d6f78b5065d4369d1943cf61f2a7b863744fc92341eb2c605fb365bc"
+ }
+}

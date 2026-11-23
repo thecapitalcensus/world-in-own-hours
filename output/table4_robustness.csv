@@ -1,0 +1,7 @@
+variant,gdp_weighted,median,gdp_weighted_balanced,median_balanced,share_positive,US,JP,DE,CH
+"Baseline: Dec-to-Dec market returns, calendar-year national hour",33.45,32.8,34.46,33.17,0.91,36.79,39.81,32.36,33.17
+National hour interpolated to Dec-to-Dec (note 4 variant),33.49,34.09,33.96,35.4,0.91,35.75,38.72,33.4,33.59
+Annual-average exchange rate instead of December,33.37,34.63,34.27,35.75,0.91,36.79,39.58,34.41,34.43
+GDP per worker instead of GDP per hour,36.21,36.02,37.08,36.75,0.91,37.47,44.35,38.47,37.48
+Sample to 2023 (no labour-force extension),32.31,32.11,33.18,33.23,0.88,35.41,36.61,31.8,32.11
+Equal country weights,29.04,32.8,32.05,33.17,0.91,36.79,39.81,32.36,33.17
