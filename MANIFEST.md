@@ -1,15 +1,15 @@
 # Manifest
 
-Generated 2026-11-23T03:31:36Z by `tools/make_manifest.py`.
+Generated 2026-11-23T04:12:45Z by `tools/make_manifest.py`.
 
 ## Files in this repository (145)
 
 | file | bytes | sha256 |
 |---|---|---|
 | `.gitignore` | 23 | `9addeec56619685bab330ff2184db9f205a1b4628f551ededcb97800b269ca3e` |
-| `CITATION.cff` | 1,008 | `b0fd394daa8e6ff54b7a628f54cb4ab4c7c5d6446b7715f311ea9f5667ead2af` |
+| `CITATION.cff` | 1,076 | `5fc886ddc7d16010356641faa3ae767bbc389cdb1ce604a37711183cfb88c59d` |
 | `LICENSE.md` | 3,332 | `a68dc1d238c4f48fb8fc95c78c2ec60d73a7294d12857753c1747f9072ad1be3` |
-| `README.md` | 6,073 | `f5c14476fcb640ef491520e3c14dd91cb169c1314eafdc64a9a8ed2c41db651c` |
+| `README.md` | 6,198 | `ce64daf0120ae7b0a4c02bc1629ae7a9a8de17cafa9c3e432fdbaaaf137e4fa0` |
 | `check/check_countries.py` | 7,661 | `b00041c6118538f5d6dfc3e76605c83c904b2ece52b363d8a0579d2fc651cc4a` |
 | `check/source_check_JP2023.md` | 2,137 | `48f7a7400253af4d26c687c453760f1e74e8647c22e3751107c1b9081cdb8cff` |
 | `check/worksheet.py` | 11,731 | `5a5de1501c18ab6c7482c717e92e856422dc9a8af408181c941beb80b974458f` |

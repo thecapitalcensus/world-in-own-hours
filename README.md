@@ -3,7 +3,8 @@
 Code and derived data for the fifth Capital Census research note:
 
 Nakanishi, K. (2026). *Holding the World in One's Own Hours: The Global Market Portfolio for the Residents of 43 Countries,
-Hedged and Unhedged.* Research note, v1.0, 23 November 2026. SSRN: forthcoming.
+Hedged and Unhedged.* Research note, v1.0, 23 November 2026. SSRN 7742900, doi:10.2139/ssrn.7742900
+(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7742900; under SSRN review at the time of release).
 
 The note asks the question a resident asks: a person who works in one country and holds the whole world — does the holding
 grow or shrink against an hour of their own country's work? It measures the global market portfolio (GMP) in the *national

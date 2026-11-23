@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this code or data, please cite the research note and this repository."
 type: software
 title: "Holding the World in One's Own Hours — code and derived data"
+doi: "10.2139/ssrn.7742900"
 version: "1.0"
 date-released: "2026-11-23"
 authors:
@@ -28,4 +29,4 @@ preferred-citation:
   year: 2026
   institution:
     name: "The Capital Census"
-  notes: "Research note, v1.0, 23 November 2026."
+  notes: "Research note, v1.0, 23 November 2026. SSRN 7742900, doi:10.2139/ssrn.7742900."
